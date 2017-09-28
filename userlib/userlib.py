@@ -2,6 +2,7 @@
 import os
 import sys
 import time
+from imp import reload
 
 reload(sys)
 import unittest
