@@ -8,7 +8,7 @@ from userlib import HTMLTestRunner, userlib
 import logging
 
 
-# 运行测试用例并输出测试报告，
+# 运行测试用例并输出测试报告
 class RunTestcase():
     # 设置全局变量获取文件夹路径
     globalpath = sys.path[0]
